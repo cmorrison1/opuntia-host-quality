@@ -1,0 +1,160 @@
+﻿Sample,species,pair,age,herbivores,measure1,measure2,measure3,measure4,measure5,measure6,measureAVG,magnification,thick.um,thickAVG
+Cofi01-1,ficus-indica,Cofi,N,,6,4,4,4,5,4,4.5,3.5,1.485,
+Cofi01-2,ficus-indica,Cofi,N,,7,6,4,5,5,5,5.333333333,3.5,1.76,
+Cofi01-3,ficus-indica,Cofi,N,,5,4,4,7,6,5,5.166666667,5.5,1.705,1.65
+Cofi02-1,ficus-indica,Cofi,N,,5,5,6,5,4,4,4.833333333,3.5,1.595,
+Cofi02-2,ficus-indica,Cofi,N,,4,5,5,7,6,4,5.166666667,3.5,1.705,
+Cofi02-3,ficus-indica,Cofi,N,,7,6,6,5,4,5,5.5,3.5,1.815,1.705
+Cofi03-1,ficus-indica,Cofi,N,,7,5,4,5,5,5,5.166666667,3.5,1.705,
+Cofi03-2,ficus-indica,Cofi,N,,7,8,5,5,4,5,5.666666667,3.5,1.87,
+Cofi03-3,ficus-indica,Cofi,N,,5,9,7,5,4,5,5.833333333,3.5,1.925,1.833333333
+BFLoe01-1,engelmannii,BFLoe,N,,5,10,9,8,9,10,8.2,3.5,2.706,
+BFLoe01-2,engelmannii,BFLoe,N,,5,9,10,10,8,10,8.4,3.5,2.772,
+BFLoe01-3,engelmannii,BFLoe,N,,5,9,12,10,10,11,9.2,3.5,3.036,2.838
+BFLoe02-1,engelmannii,BFLoe,N,,5,7,7,8,7,9,6.8,3.5,2.244,
+BFLoe02-2,engelmannii,BFLoe,N,,5,12,8,9,8,10,8.4,3.5,2.772,
+BFLoe02-3,engelmannii,BFLoe,N,,5,15,8,8,7,8,8.6,3.5,2.838,2.618
+BFLoe03-1,engelmannii,BFLoe,N,,5,6,5,7,6,7,5.8,3.5,1.914,
+BFLoe03-2,engelmannii,BFLoe,N,,5,7,7,7,7,6,6.6,3.5,2.178,
+BFLoe03-3,engelmannii,BFLoe,N,,5,8,7,8,8,9,7.2,3.5,2.376,2.156
+Wom01-1,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,
+Wom01-2,macrorhiza,Wom,N,,5,8,7,,,,6.666666667,3.5,2.2,
+Wom01-3,macrorhiza,Wom,N,,5,5,5,,,,5,3.5,1.65,1.87
+Wom02-1,macrorhiza,Wom,N,,5,6,5,,,,5.333333333,3.5,1.76,
+Wom02-2,macrorhiza,Wom,N,,5,4,6,,,,5,3.5,1.65,
+Wom02-3,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,1.723333333
+Wom03-1,macrorhiza,Wom,N,,5,5,5,,,,5,3.5,1.65,
+Wom03-2,macrorhiza,Wom,N,,5,7,5,,,,5.666666667,3.5,1.87,
+Wom03-3,macrorhiza,Wom,N,,5,6,6,,,,5.666666667,3.5,1.87,1.796666667
+Wom04-1,macrorhiza,Wom,N,,5,6,4,,,,5,3.5,1.65,
+Wom04-2,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,
+Wom04-3,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,1.723333333
+Wom05-1,macrorhiza,Wom,N,,5,5,7,,,,5.666666667,3.5,1.87,
+Wom05-2,macrorhiza,Wom,N,,5,6,7,,,,6,3.5,1.98,
+Wom05-3,macrorhiza,Wom,N,,5,5,5,,,,5,3.5,1.65,1.833333333
+Wom06-1,macrorhiza,Wom,N,,5,6,6,,,,5.666666667,3.5,1.87,
+Wom06-2,macrorhiza,Wom,N,,5,6,5,,,,5.333333333,3.5,1.76,
+Wom06-3,macrorhiza,Wom,N,,5,4,5,,,,4.666666667,3.5,1.54,1.723333333
+Wom07-1,macrorhiza,Wom,N,,5,6,6,,,,5.666666667,3.5,1.87,
+Wom07-2,macrorhiza,Wom,N,,5,5,5,,,,5,3.5,1.65,
+Wom07-3,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,1.76
+Wom08-1,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,
+Wom08-2,macrorhiza,Wom,N,,5,5,6,,,,5.333333333,3.5,1.76,
+Wom08-3,macrorhiza,Wom,N,,5,6,5,,,,5.333333333,3.5,1.76,1.76
+Wfi01-1,ficus-indica,Wfi,N,,5,6,4,,,,5,3.5,1.65,
+Wfi01-2,ficus-indica,Wfi,N,,5,4,5,,,,4.666666667,3.5,1.54,
+Wfi01-3,ficus-indica,Wfi,N,,5,7,6,,,,6,3.5,1.98,1.723333333
+Mfi01-1,ficus-indica,Mfi,N,,5,4,5,,,,4.666666667,3.5,1.54,
+Mfi01-2,ficus-indica,Mfi,N,,5,4,4,,,,4.333333333,3.5,1.43,
+Mfi01-3,ficus-indica,Mfi,N,,5,5,5,,,,5,3.5,1.65,1.54
+Tfi01-1,ficus-indica,Tfi,N,,5,4,5,,,,4.666666667,3.5,1.54,
+Tfi01-2,ficus-indica,Tfi,N,,5,5,5,,,,5,3.5,1.65,
+Tfi01-3,ficus-indica,Tfi,N,,5,4,4,,,,4.333333333,3.5,1.43,1.54
+Tfi02-1,ficus-indica,Tfi,N,,5,4,5,,,,4.666666667,3.5,1.54,
+Tfi02-2,ficus-indica,Tfi,N,,5,4,5,,,,4.666666667,3.5,1.54,
+Tfi02-3,ficus-indica,Tfi,N,,5,5,5,,,,5,3.5,1.65,1.576666667
+Tfi03-1,ficus-indica,Tfi,N,,5,6,4,,,,5,3.5,1.65,
+Tfi03-2,ficus-indica,Tfi,N,,5,4,5,,,,4.666666667,3.5,1.54,
+Tfi03-3,ficus-indica,Tfi,N,,5,4,4,,,,4.333333333,3.5,1.43,1.54
+WN01LOW_1,engelmannii,W01,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN01LOW_2,engelmannii,W01,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN01LOW_3,engelmannii,W01,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN01MED_1,engelmannii,W01,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN01MED_2,engelmannii,W01,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN01MED_3,engelmannii,W01,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN01HIGH_1,engelmannii,W01,N,no melitara,5,6,5,,,,5.333333333,3.5,1.76,
+WN01HIGH_2,engelmannii,W01,N,no melitara,5,7,7,,,,6.333333333,3.5,2.09,
+WN01HIGH_3,engelmannii,W01,N,no melitara,6,8,7,,,,7,3.5,2.31,2.053333333
+WM01LOW_1,engelmannii,W01,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM01LOW_2,engelmannii,W01,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM01LOW_3,engelmannii,W01,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM01MED_1,engelmannii,W01,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM01MED_2,engelmannii,W01,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM01MED_3,engelmannii,W01,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM01HIGH_1,engelmannii,W01,N,melitara,5,6,5,,,,5.333333333,3.5,1.76,
+WM01HIGH_2,engelmannii,W01,N,melitara,5,7,7,,,,6.333333333,3.5,2.09,
+WM01HIGH_3,engelmannii,W01,N,melitara,5,7,7,,,,6.333333333,3.5,2.09,1.98
+WN02LOW_1,engelmannii,W02,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02LOW_2,engelmannii,W02,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02LOW_3,engelmannii,W02,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02MED_1,engelmannii,W02,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02MED_2,engelmannii,W02,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02MED_3,engelmannii,W02,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02HIGH_1,engelmannii,W02,N,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02HIGH_2,engelmannii,W02,N,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN02HIGH_3,engelmannii,W02,N,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02LOW_1,engelmannii,W02,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02LOW_2,engelmannii,W02,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02LOW_3,engelmannii,W02,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02MED_1,engelmannii,W02,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02MED_2,engelmannii,W02,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02MED_3,engelmannii,W02,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02HIGH_1,engelmannii,W02,N,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02HIGH_2,engelmannii,W02,N,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM02HIGH_3,engelmannii,W02,N,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03LOW_1,engelmannii,W03,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03LOW_2,engelmannii,W03,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03LOW_3,engelmannii,W03,O,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03MED_1,engelmannii,W03,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03MED_2,engelmannii,W03,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03MED_3,engelmannii,W03,M,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03HIGH_1,engelmannii,W03,N,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03HIGH_2,engelmannii,W03,N,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WN03HIGH_3,engelmannii,W03,N,no melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03LOW_1,engelmannii,W03,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03LOW_2,engelmannii,W03,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03LOW_3,engelmannii,W03,O,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03MED_1,engelmannii,W03,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03MED_2,engelmannii,W03,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03MED_3,engelmannii,W03,M,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03HIGH_1,engelmannii,W03,N,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03HIGH_2,engelmannii,W03,N,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+WM03HIGH_3,engelmannii,W03,N,melitara,,,,,,,#DIV/0!,3.5,#DIV/0!,
+QC01-1,engelmannii,QC01,N,cactoblastis,4,5,4,,,,4.333333333,3.5,1.43,
+QC01-2,engelmannii,QC01,N,cactoblastis,5,5,4,,,,4.666666667,3.5,1.633333333,
+QC01-3,engelmannii,QC01,N,cactoblastis,5,4,6,,,,5,3.5,1.75,1.604444444
+JN01-1,engelmannii,JN01,N,no cactoblastis,5,5,4,,,,4.666666667,3.5,1.633333333,
+JN01-2,engelmannii,JN01,N,no cactoblastis,4,5,4,,,,4.333333333,3.5,1.516666667,
+JN01-3,engelmannii,JN01,N,no cactoblastis,4,6,4,,,,4.666666667,3.5,1.633333333,1.594444444
+MN01-1,engelmannii,M01,N,no cactoblastis,5,4,4,,,,4.333333333,3.5,1.516666667,
+MN01-2,engelmannii,M01,N,no cactoblastis,5,6,5,,,,5.333333333,3.5,1.866666667,
+MN01-3,engelmannii,M01,N,no cactoblastis,5,6,4,,,,5,3.5,1.75,1.711111111
+MN02-1,engelmannii,M02,N,no cactoblastis,6,5,5,,,,5.333333333,3.5,1.866666667,
+MN02-2,engelmannii,M02,N,no cactoblastis,6,5,5,,,,5.333333333,3.5,1.866666667,
+MN02-3,engelmannii,M02,N,no cactoblastis,6,4,6,,,,5.333333333,3.5,1.866666667,1.866666667
+MC01-1,engelmannii,M01,N,cactoblastis,5,5,5,,,,5,3.5,1.75,
+MC01-2,engelmannii,M01,N,cactoblastis,5,5,6,,,,5.333333333,3.5,1.866666667,
+MC01-3,engelmannii,M01,N,cactoblastis,5,4,5,,,,4.666666667,3.5,1.633333333,1.75
+MC02-1,engelmannii,M02,N,cactoblastis,5,4,5,,,,4.666666667,3.5,1.633333333,
+MC02-2,engelmannii,M02,N,cactoblastis,4,4,5,,,,4.333333333,3.5,1.516666667,
+MC02-3,engelmannii,M02,N,cactoblastis,5,4,5,,,,4.666666667,3.5,1.633333333,1.594444444
+SOS01-1,stricta,SOS,N,,5,5,4,,,,4.666666667,4.5,1.633333333,
+SOS01-2,stricta,SOS,N,,5,4,5,,,,4.666666667,5.5,1.633333333,
+SOS01-3,stricta,SOS,N,,5,4,6,,,,5,6.5,1.75,1.672222222
+SOS02-1,stricta,SOS,N,,5,4,5,,,,4.666666667,7.5,1.633333333,
+SOS02-2,stricta,SOS,N,,5,4,6,,,,5,8.5,1.75,
+SOS02-3,stricta,SOS,N,,5,5,5,,,,5,9.5,1.75,1.711111111
+SOS03-1,stricta,SOS,N,,5,4,5,,,,4.666666667,10.5,1.633333333,
+SOS03-2,stricta,SOS,N,,5,5,5,,,,5,11.5,1.75,
+SOS03-3,stricta,SOS,N,,5,4,6,,,,5,12.5,1.75,1.711111111
+SOS04-1,stricta,SOS,N,,3,6,4,,,,4.333333333,13.5,1.516666667,
+SOS04-2,stricta,SOS,N,,5,4,4,,,,4.333333333,14.5,1.516666667,
+SOS04-3,stricta,SOS,N,,5,4,4,,,,4.333333333,15.5,1.516666667,1.516666667
+SOS05-1,stricta,SOS,N,,4,4,5,,,,4.333333333,16.5,1.516666667,
+SOS05-2,stricta,SOS,N,,4,5,4,,,,4.333333333,17.5,1.516666667,
+SOS05-3,stricta,SOS,N,,4,4,5,,,,4.333333333,18.5,1.516666667,1.516666667
+SOS06-1,stricta,SOS,N,,4,4,4,,,,4,19.5,1.4,
+SOS06-2,stricta,SOS,N,,4,5,4,,,,4.333333333,20.5,1.516666667,
+SOS06-3,stricta,SOS,N,,3,4,5,,,,4,21.5,1.4,1.438888889
+SOS07-1,stricta,SOS,N,,4,4,5,,,,4.333333333,22.5,1.516666667,
+SOS07-2,stricta,SOS,N,,5,4,4,,,,4.333333333,23.5,1.516666667,
+SOS07-3,stricta,SOS,N,,5,4,4,,,,4.333333333,24.5,1.516666667,1.516666667
+SOS08-1,stricta,SOS,N,,6,4,4,,,,4.666666667,25.5,1.633333333,
+SOS08-2,stricta,SOS,N,,4,4,5,,,,4.333333333,26.5,1.516666667,
+SOS08-3,stricta,SOS,N,,5,5,5,,,,5,27.5,1.75,1.633333333
+SOS09-1,stricta,SOS,N,,5,4,4,,,,4.333333333,28.5,1.516666667,
+SOS09-2,stricta,SOS,N,,4,4,5,,,,4.333333333,29.5,1.516666667,
+SOS09-3,stricta,SOS,N,,4,6,4,,,,4.666666667,30.5,1.633333333,1.555555556
+SOS10-1,stricta,SOS,N,,5,4,4,,,,4.333333333,31.5,1.516666667,
+SOS10-2,stricta,SOS,N,,4,5,4,,,,4.333333333,32.5,1.516666667,
+SOS10-3,stricta,SOS,N,,4,4,5,,,,4.333333333,33.5,1.516666667,1.516666667
