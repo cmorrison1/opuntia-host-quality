@@ -19,6 +19,8 @@
 
 
 getwd()
+setwd("~/Desktop/oppuntia.cactoblastis/Oppuntia Host Quality DBs")
+
 
 
 ### ------------------------------------------------------------------------------------
@@ -319,15 +321,15 @@ save(Ccarb3,CFA3,Cprot3,Cfib4,Ch2o4,Ccut3,
 Mfiles<-load(file="melPCAdata_2-14-20_RData")
 Mfiles
 
-# install.packages(c("FactoMineR", "factoextra","missMDA"))
+# install.packages(c("FactoMineR", "factoextra","missmDA"))
 library(FactoMineR)
 library(factoextra)
 library(missMDA)
-library(ggpubr)
+
 
 ### --------------------------------------------------------------
 ### --- MELITARA - Travis County O. engelmannii Population --- ###
-### choose number of dimensions
+### choose number of dimensions ('package missMDA')
 nd = estim_ncpPCA(master.active,ncp.max=5)
 nd # 4 dimensions
 ### impute the data to deal with missing values 
