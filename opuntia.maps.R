@@ -26,19 +26,7 @@ install.packages('cowplot')
 install.packages('cowplot')
 
 
-#libraries needed
-library(rgeos)
-library(ggplot2)
-library(lwgeom)
-library(sf)
-library(rnaturalearth)
-library(rnaturalearthdata)
-library(maps)
-library(viridis)
-library(ggspatial)
-library(ggrepel)
-library(rcartocolor)
-library(cowplot)
+
 
 
 
